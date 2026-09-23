@@ -1,21 +1,102 @@
-MIT License
+# SUTRA Commercial License
 
-Copyright (c) 2026 Ravi Kumar V.
+Copyright (c) 2026 Ravi Kumar. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software ("SUTRA") is licensed, not sold. By purchasing, downloading, or
+using SUTRA in any form, you agree to the terms below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 1. Grant of License
+
+Upon a verified purchase through the official Gumroad listing
+(`gumroad.com/l/sutra-core`), the copyright holder grants you a limited,
+non-exclusive, non-transferable, worldwide license to use SUTRA according to
+the tier purchased:
+
+### Standard Tier ($149)
+
+You MAY:
+- Use, run, modify, and deploy SUTRA for your own internal business purposes
+  and for products or services you operate for your own customers — including
+  WhatsApp-based ERP and order management for MSMEs.
+- Deploy unlimited instances for your own organization's use.
+- Modify the source code freely; modifications are owned by you.
+
+You may NOT:
+- Redistribute, resell, sublicense, publish, or share the source code, in
+  whole or in part, in original or modified form — including as a boilerplate,
+  starter kit, template, scaffold, course material, or competing product.
+- Offer SUTRA itself (or a derivative whose primary value is the SUTRA
+  codebase) for sale or free distribution.
+- Remove or obscure copyright, attribution, or license notices embedded in
+  the source files.
+
+### Pro Tier ($249) — White-Label
+
+Everything in Standard, plus:
+- Full white-label rights: rebrand SUTRA, remove all SUTRA branding, and
+  deliver it as part of your own commercial offerings to your clients.
+- Client deployments: install customized SUTRA instances on client-owned
+  infrastructure as part of a paid engagement.
+
+You may still NOT redistribute the unmodified source as a standalone
+boilerplate, template, or product that competes with SUTRA.
+
+---
+
+## 2. Updates
+
+Licensed tiers include all v1.x releases. Updates are delivered exclusively
+through the official Gumroad listing (re-download with your purchase
+credentials). There is no public repository distribution channel.
+
+---
+
+## 3. Team Usage
+
+A single license covers one organization. Team members and contractors of
+that organization may use SUTRA under the same license while working for the
+licensee. Sharing the source outside the licensee organization is prohibited.
+
+---
+
+## 4. Ownership
+
+SUTRA is and remains the exclusive property of Ravi Kumar. This license grants
+usage rights only — no ownership, title, or intellectual property rights are
+transferred except to your own modifications as described above.
+
+---
+
+## 5. No Warranty
+
+SUTRA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH SUTRA OR ITS USE.
+
+---
+
+## 6. Termination
+
+This license terminates automatically upon breach of any term. Upon
+termination, you must cease all use and destroy all copies of SUTRA in your
+possession. Sections 4, 5, and 7 survive termination.
+
+---
+
+## 7. Governing Terms
+
+This is the complete agreement between you and the copyright holder
+regarding SUTRA and supersedes any prior proposals or agreements. Any dispute
+shall be subject to the jurisdiction of the copyright holder's place of
+business.
+
+---
+
+## Contact
+
+License questions, extended/team/enterprise inquiries:
+via the official Gumroad listing (`gumroad.com/l/sutra-core`) or github.com/ravikumarve

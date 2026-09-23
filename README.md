@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/forks/ravikumarve/sutra-core?style=social" alt="Forks" />
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+    <img src="https://img.shields.io/badge/License-Commercial-orange.svg" alt="License" />
   </a>
   <img src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi" alt="FastAPI" />
