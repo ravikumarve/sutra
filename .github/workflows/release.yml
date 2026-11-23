@@ -73,7 +73,7 @@ jobs:
           path: sbom.spdx.json
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           name: Release ${{ github.ref_name }}
           body_path: CHANGELOG.md 2>/dev/null || echo "See changelog for details"
